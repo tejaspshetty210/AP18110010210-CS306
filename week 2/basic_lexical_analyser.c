@@ -1,6 +1,5 @@
 /*
     Basic Lexical analyser
-    By K. Sree Rama Murthy
 Keywords (24)
 Identifiers into symbol table
 Number : Integers
